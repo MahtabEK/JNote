@@ -1,0 +1,2 @@
+# JNote
+developed in java
